@@ -19,10 +19,9 @@ export default function Doro() {
       </div>
       <div className="dororight">
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla sint
-          nihil nemo amet, aliquam ut nobis sapiente eveniet iusto harum sit
-          facilis sed accusantium cupiditate perferendis explicabo quisquam
-          recusandae veritatis!
+          I love to learn. To do so more efficiently I built Doro, a Pomodoro
+          based study timer to help me study and learn new technologies more
+          efficiently.
         </p>
         <img
           className="doroimg"
@@ -30,10 +29,9 @@ export default function Doro() {
           alt=""
         />
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero,
-          explicabo nostrum architecto sequi officia soluta repudiandae, illum
-          earum sit, fugiat perspiciatis iusto vitae non cupiditate velit?
-          Accusantium aliquam consectetur nisi.
+          This project was built with React. The timer functionality is coded
+          entirely from vanilla JS in an effort to better understand the
+          setTimeout and setInterval methods.
         </p>
       </div>
     </div>

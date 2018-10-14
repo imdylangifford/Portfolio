@@ -7,15 +7,16 @@ export default function Dont() {
       <div className="dontleft">
         <h1 className="donttitle">Dont4Git</h1>
         <p className="donttitle">
-          <a href="">check the code</a>
+          <a href="https://github.com/imdylangifford/dont4git" target="_blank">
+            check the code
+          </a>
         </p>
       </div>
       <div className="dontright">
         <p>
-          Lorem ipsum dolor sit amet, `consectetur adipisicing elit. Non ullam
-          mollitia earum blanditiis quia temporibus maxime provident, quasi
-          necessitatibus optio corrupti quaerat, eveniet incidunt ratione,
-          labore assumenda inventore rerum amet!
+          An SMS text reminder that you lets you pick a number as well as a date
+          and time to send a text message reminder too. Though its function is
+          simple it involves some rather complex code.
         </p>
         <img
           className="dontimg"
@@ -23,10 +24,9 @@ export default function Dont() {
           alt=""
         />
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
-          magnam eius accusantium veritatis et ipsum id nobis ducimus fugiat
-          libero dignissimos officia modi corporis, maiores corrupti?
-          Reprehenderit tempora aut iure?
+          The front end is built with React to handle the inputs and data. The
+          server uses the Twilio API to handle the text messages as well as
+          node-cron to handle when the requests will be made.
         </p>
       </div>
     </div>
