@@ -7,14 +7,6 @@ export default class Content extends Component {
     return (
       <div className="view">
         <Fade bottom>
-          <div className="links">
-            <a href="https://github.com/imdylangifford">
-              <span>github</span>
-            </a>
-            <a href="https://www.linkedin.com/in/dylan-gifford-994a65149/">
-              <span>linkedIn</span>
-            </a>
-          </div>
           <div className="text">
             <h1>
               hi

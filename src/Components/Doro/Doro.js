@@ -7,12 +7,14 @@ export default function Doro() {
       <div className="doroleft">
         <h1 className="dorotitle">Doro</h1>
         <p className="dorotitle">
-          <p className="dorotitle">
-            <a href="">check the code</a>
-          </p>
-          <p className="dorotitle">
-            <a href="">live example</a>
-          </p>
+          <a target="_blank" href="https://github.com/imdylangifford/Doro">
+            check the code
+          </a>
+        </p>
+        <p className="dorotitle">
+          <a href="https://doro.surge.sh" target="_blank">
+            live example
+          </a>
         </p>
       </div>
       <div className="dororight">

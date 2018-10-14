@@ -7,7 +7,10 @@ export default function Whois() {
       <div className="whoisleft">
         <h1 className="title">WhoIs Lookup</h1>
         <p className="title">
-          <a className="whoislink" href="">
+          <a
+            className="whoislink"
+            href="https://github.com/imdylangifford/Domain-Lookup"
+          >
             check the code
           </a>
         </p>
